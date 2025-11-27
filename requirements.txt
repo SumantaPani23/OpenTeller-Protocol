@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+ultralytics
+openai-whisper
+pydantic
+loguru
+requests
+sounddevice
+scipy
