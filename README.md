@@ -2,7 +2,8 @@ OpenTeller Protocol (v1.0) 🏦
 
 A Privacy-Preserving, Voice-First Banking Interface for the Visually Impaired. > Compliant with RBI Circular 2015 & IBA Standards 2013.
 
-https://openteller-protocol-sumanta.streamlit.app/
+Live Link:
+(https://openteller-protocol.streamlit.app/)
 
 🚨 The Problem
 
